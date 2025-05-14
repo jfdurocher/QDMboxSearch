@@ -1,0 +1,35 @@
+QDMBoxSearch Change Log
+=====================
+
+Version 2025.01.01 (Build 1)
+---------------------------
+- Initial release
+- Renamed from MBox Search to QDMBoxSearch
+- Added cross-platform build support
+- Updated copyright to 2025
+- Added comprehensive license information
+- Added build script for automated compilation
+- Added version tracking
+- Added proper application icons for all platforms
+- Improved macOS integration with proper menu bar
+- Added HTML rendering support in message preview
+- Improved loading progress indication for large files
+
+Version 0.2.0 (2024-03-21)
+-------------------------
+- Added desktop GUI version using PyQt6
+- Implemented modern, native-looking interface
+- Added message preview functionality
+- Added progress bar for file loading
+- Improved search interface with dropdown selection
+- Added file selection dialog
+- Implemented background loading to prevent UI freezing
+
+Version 0.1.0 (2024-03-21)
+-------------------------
+- Initial development build
+- Created basic project structure
+- Implemented mbox file loading and parsing
+- Added search functionality for subject and body
+- Added progress bar for large file processing
+- Implemented rich console interface 
