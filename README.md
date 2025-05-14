@@ -1,6 +1,6 @@
 # QDMBoxSearch
 
-A quick and efficient desktop application for searching through large mbox files. Built with Python and PyQt6.
+A quick and dirty desktop application for searching through large mbox files. Built with Python and PyQt6.
 
 ## Features
 

@@ -6,7 +6,7 @@ MBox Search Tool
 ---------------
 A professional tool for searching through large mbox files.
 Author: J.F. Durocher
-Copyright (c) 2024 J.F. Durocher (jf@durocher.in)
+Copyright (c) 2025 J.F. Durocher (jf@durocher.in)
 """
 
 import os
